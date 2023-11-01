@@ -25,3 +25,13 @@
     justify-content: space-between;
     align-items: center;
 }
+.page{
+    text-align: center;
+    margin-bottom: 32px;
+}
+.page button{
+    margin-right: 10px;
+}
+.page .selected{
+    background-color: red;
+}
